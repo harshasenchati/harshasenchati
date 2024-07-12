@@ -1,83 +1,160 @@
-# Frontend Projects Portfolio
+![bannerr](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+<!-- Header start -->
+<h1 align="center"> 👋 Hello, Welcome to my Github profile</a>
+<h1 align="center">I'm <a href="/" >Harsha</a></h1>
+<!-- Header end -->
 
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+  
 
-<h1 align="center">Hi 👋, I'm Harsha</h1>
-<h3 align="center">I'm a Passionate Frontend Developer</h3>
-<p align="center">
-  <img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*63WG6R0wvA90tl3C.gif">
-</p>
+<!-- GitHub About me section start -->
+ ## 👨‍💻About Me:
+- ✨ A Passionate FrontEnd Developer Looking for Fresher Role
+- 🚀 I’m interested in Web development, FrontEnd Frameworks 
+- 🌱 I’m currently learning React & TailwindCSS  
+- 👨‍💻 All of my projects are available at harshaSenchati github repo
+<!-- GitHub About me section end -->
 
-<p align="center">
-  I'm a frontend developer with experience in creating various web applications. This repository showcases all the projects I've completed, demonstrating my skills and proficiency in frontend development. Each project includes a brief description and the key features implemented. I am currently looking for a fresher role.
-</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=harshasenchati&label=Profile%20views&color=0e75b6&style=flat" alt="harshasenchati" />
-</p>
+<!-- GitHub Skills start -->
+## 🎓Tools and Technologies:
+- **Programming Languages**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>JavaScript</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Frontend Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td align="center">
+						<span><strong>HTML</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+					</td>
+					<td align="center">
+						<span><strong>CSS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+					</td>
+					<td align="center">
+						<span><strong>Javascript</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+					</td>
+		   	<td align="center">
+       <span><strong>Tailwind CSS</strong></span><br/>
+     <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+      </td>
+					<td align="center">
+						<span><strong>Bootstrap</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+					</td>
+					<td align="center">
+						<span><strong>React</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Databases**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>MySql</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **web Hosting Platforms**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Heroku</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Netlify</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg">
+					</td>
+     
+     <td width="25%" align="center">
+						<span><strong>Github pages</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
 
-## 🔭 Currently Working On
-- **TextUtilities React Project**
+- **Designing Softwares:**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Figma</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Canva</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
+					</td>
+					</tr>
+			</tbody>
+		</table>
+	</center>
 
-## 🌱 Currently Learning
-- React
-- TailwindCSS
+- **Others**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+          <td width="25%" align="center">
+						<span><strong>git</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+					</td>
+     <td width="25%" align="center">
+						<span><strong>github</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+					</td>
+        </tr>
+			</tbody>
+		</table>
+	</center>
+<!-- GitHub Skills end -->
+<!-- GitHub Activity start -->
+## 🏆My Github stats and Trophies:
 
-## 💬 Ask Me About
-- React
-- HTML
-- CSS
-- JavaScript
-- TailwindCSS
+![Github stats](https://github-readme-stats.vercel.app/api?username=harshasenchati&theme=solarized-dark&show_icons=true&count_private=true)
 
-## 📫 How to Reach Me
-- Email: senchatiharsha5@gmail.com
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=harshasenchati&theme=solarized-dark)
 
-## Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-linkedin-profile" height="30" width="40" />
-  </a>
-</p>
+<div align="left">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshasenchati&theme=solarized-dark" alt="harshasenchati" /></p>
+</div>
 
-## Languages and Tools
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
-
-## GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshasenchati&show_icons=true&locale=en&layout=compact" alt="harshasenchati" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshasenchati&show_icons=true&locale=en&layout=compact&theme=solarized-dark" alt="harshasenchati" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshasenchati&show_icons=true&locale=en" alt="harshasenchati" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshasenchati&show_icons=true&locale=en&theme=solarized-dark" alt="harshasenchati" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshasenchati&" alt="harshasenchati" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshasenchati&theme=solarized-dark" alt="harshasenchati" />
 </p>
 
