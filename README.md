@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Harsha</h1>
-<h3 align="center">I'm a passionate Frontend Developer with experience in creating various web applications. This repository showcases all the projects I've completed, demonstrating my skills and proficiency in frontend development. Each project includes a brief description and the key features implemented.im looking for a fresher role</h3>
+<h3 align="center">I'm a Passionate Frontend Developer with experience in creating various web applications. This Repository   Showcases all the projects I've completed, demonstrating my skills and proficiency in frontend development.Each project includes a brief description and the key features implemented.im looking for a fresher role</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*63WG6R0wvA90tl3C.gif">
 
 
