@@ -1,7 +1,8 @@
 ![bannerr](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <!-- Header start -->
-<h1 align="center"> 👋 Hello, Welcome to my Github profile</a>
-<h1 align="center">I'm <a href="/" >Harsha</a></h1>
+
+<h1 align="center">👋 Hello, I'm Harsha</h1>
+
 <!-- Header end -->
 
   
