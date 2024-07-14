@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=harshasenchati&label=Profile%20views&color=0e75b6&style=flat" alt="harshasenchati" />
 </p>
 
-I am a React Developer with a passion for creating engaging and user-friendly web applications. This repository showcases the projects I have completed, demonstrating my skills and expertise in React development. Each project includes a brief description and key features implemented.
+I am a React Developer with a passion for creating engaging and user-friendly web applications. This repository showcases the projects I have completed, demonstrating my skills and expertise in Frontend development. Each project includes a brief description and key features implemented.
 
 I am currently seeking a fresher role to leverage my Frontend skills and contribute to impactful projects.
 
